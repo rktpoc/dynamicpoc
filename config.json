@@ -27,7 +27,7 @@
 "click_action" : false
 },
 "home_title":{
-"position":"left",
+"position":"right",
 "visibility": true,
 "click_action" : false
 }
