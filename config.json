@@ -17,7 +17,7 @@
 "click_action" : true
 },
 "setting_action":{
-"position":"left",
+"position":"right",
 "visibility": true,
 "click_action" : true
 },
