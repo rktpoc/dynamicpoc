@@ -29,7 +29,7 @@
 "home_title":{
 "position":"right",
 "visibility": true,
-"click_action" : true
+"click_action" : false
 }
 }
 
