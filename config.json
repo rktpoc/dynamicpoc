@@ -2,7 +2,7 @@
 "config_payload":[
 {
 "pi_desc":{
-"position":"top",
+"position":"bottom",
 "visibility": true,
 "click_action" : true 
 },
