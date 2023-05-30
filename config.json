@@ -4,7 +4,7 @@
 "pi_desc":{
 "position":"bottom",
 "visibility": true,
-"click_action" : true 
+"click_action" : false 
 },
 "pi_language":{
 "position":"right",
