@@ -19,7 +19,7 @@
 "setting_action":{
 "position":"right",
 "visibility": true,
-"click_action" : true
+"click_action" : false
 },
 "login_action":{
 "position":"top",
