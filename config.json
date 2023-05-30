@@ -4,12 +4,12 @@
 "pi_desc":{
 "position":"bottom",
 "visibility": true,
-"click_action" : false 
+"click_action" : true 
 },
 "pi_language":{
 "position":"right",
 "visibility": true,
-"click_action" : false
+"click_action" : true
 },
 "pi_share_button":{
 "position":"right",
