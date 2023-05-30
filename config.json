@@ -14,7 +14,7 @@
 "pi_share_button":{
 "position":"right",
 "visibility": true,
-"click_action" : true
+"click_action" : false
 },
 "setting_action":{
 "position":"right",
