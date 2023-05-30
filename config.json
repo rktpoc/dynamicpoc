@@ -12,7 +12,7 @@
 "click_action" : true
 },
 "pi_share_button":{
-"position":"left",
+"position":"right",
 "visibility": true,
 "click_action" : true
 },
